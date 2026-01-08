@@ -1,7 +1,6 @@
-#include <iostream>
+#include <ioastream>
 
 int main() {
-    std::cout << "Hello world! and C++!";
-
+    std::cout << "Hello C++!" << std::endl;
     return 0;
 }
